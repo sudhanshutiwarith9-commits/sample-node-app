@@ -16,7 +16,7 @@ pipeline {
 
         stage('Run App') {
             steps {
-                bat 'node index.js'
+                bat 'node index.js & timeout /t 5'
             }
         }
     }
