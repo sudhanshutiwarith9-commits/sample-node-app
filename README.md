@@ -108,7 +108,33 @@ AWS EC2 Instance
 
    - Demonstrated ability to troubleshoot, deploy and maintain a live application using DevOps practices
 
+## 📸 Deployment Snapshots
 
+Here are the important snapshots showing each step of the AWS EC2 Node.js deployment process:
+
+1. *EC2 Launch Configuration*
+   ![](screenshots/ec2-launch-config.png)
+
+2. *Security Group (Ports 22 & 3000)*
+   ![](screenshots/security-group-rules.png)
+
+3. *Running EC2 Instance*
+   ![](screenshots/ec2-instance-running.png)
+
+4. *Successful SSH Connection*
+   ![](screenshots/ssh-connected.png)
+
+5. *Node.js & npm Installed*
+   ![](screenshots/node-installed.png)
+
+6. *App Cloned from GitHub & Started*
+   ![](screenshots/app-started.png)
+
+7. *Node.js Application Running in Browser*
+   ![](screenshots/app-in-browser.png)
+
+8. *App Running in Background with nohup 
+   ![](screenshots/app-started.png)
 
 👤 Author
 
