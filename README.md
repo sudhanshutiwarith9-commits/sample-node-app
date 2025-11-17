@@ -88,7 +88,7 @@ AWS EC2 Instance
 
    - Verified correct Node.js version and dependency compatibility
 
-🌐 Deployment URL  http://44.222..7.7135:3000       <!-- My ec2 public ip 44.222.77.135   -->
+🌐 Deployment URL  http://13.233.223.75:3000       <!-- My ec2 public ip 44.222.77.135   -->
     
 
 
