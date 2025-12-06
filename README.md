@@ -142,6 +142,6 @@ Here are the important snapshots showing each step of the AWS EC2 Node.js deploy
 
    - DevOps & Cloud Engineer
 
-   - LinkedIn: https://www.linkedin.com/in/sudhanshutiwari6394
+   - GitHub: https://github.com/sudhanshutiwarith9-commits
 
    - Email: sudhanshutiwarith9@gmail.com
